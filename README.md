@@ -1,7 +1,7 @@
 # 4K-DMDNet
 diffraction model-driven network for 4K computer-generated holography
 
-Before running, please download the following image datasets and networks to prediction or retraining.
+Before running, please download the following image datasets and networks for prediction or retraining.
 
 
 DIV2K_train_HR dataset download: https://cloud.tsinghua.edu.cn/f/ca0262cc418349848037/?dl=1
