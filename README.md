@@ -1,5 +1,5 @@
 # 4K-DMDNet
-diffraction model-driven network for 4K computer-generated holography
+Diffraction model-driven network for 4K computer-generated holography
 
 Kexuan Liu, Jiachen Wu, Zehao He, and Liangcai Cao, “4K-DMDNet: diffraction model-driven network for 4K computer-generated holography,” Opto-Electronic Advances 6, 220135 (2023).
 https://www.oejournal.org//article/doi/10.29026/oea.2023.220135
@@ -13,6 +13,6 @@ DIV2K_train_HR dataset download: https://cloud.tsinghua.edu.cn/f/ca0262cc4183498
 
 DIV2K_vaild_HR dataset download: https://cloud.tsinghua.edu.cn/f/c657099700464693bd00/?dl=1
 
-networks download: https://cloud.tsinghua.edu.cn/f/4f8f09ffe25844809e9b/?dl=1
+Networks download: https://cloud.tsinghua.edu.cn/f/4f8f09ffe25844809e9b/?dl=1
 
 Contact: lkx20@mails.tsinghua.edu.cn; clc@tsinghua.edu.cn
