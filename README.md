@@ -15,9 +15,10 @@ DIV2K_vaild_HR dataset download: https://cloud.tsinghua.edu.cn/f/b76a28ed2f174d7
 
 Networks download: https://cloud.tsinghua.edu.cn/f/8c312bc8c9ff441098b7/?dl=1
 
+Contact: clc@tsinghua.edu.cn
+
 ## Reproducibility
 
 Detailed setup instructions, MATLAB compatibility notes, numerical
 validation results, and known limitations are provided in
 [REPRODUCIBILITY.md](REPRODUCIBILITY.md).
-Contact: clc@tsinghua.edu.cn
