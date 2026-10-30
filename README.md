@@ -18,7 +18,15 @@ Extract the archives and set `trainImagePath` and `validImagePath` in `HoloEncod
 
 Networks download: https://cloud.tsinghua.edu.cn/f/8c312bc8c9ff441098b7/?dl=1
 
-Contact: clc@tsinghua.edu.cn
+Recent work:
+
+- [K. Liu, J. Wu, Z. He, and L. Cao, "4K-DMDNet: diffraction model-driven network for 4K computer-generated holography," Opto-Electronic Advances 6, 220135 (2023).](https://doi.org/10.29026/oea.2023.220135)
+- [Y. Luo, K. Liu, Z. He, and L. Cao, "WGCNet: wavelet global context network for speckle-free 4K holographic display with high-frequency preservation," Photonics Research 14(7), 2925–2935 (2026).](https://doi.org/10.1364/PRJ.588876)
+
+Contact:
+luoyj25@mails.tsinghua.edu.cn;
+clc@tsinghua.edu.cn
+
 
 ## Reproducibility
 
