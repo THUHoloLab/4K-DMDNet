@@ -9,9 +9,12 @@ Deep learning offers a novel opportunity to achieve both high-quality and high-s
 
 Before running, please download the following image datasets and networks for prediction or retraining. Matlab version: 2021a.
 
-DIV2K_train_HR dataset download: https://cloud.tsinghua.edu.cn/f/a5cddc96c5b146389133/?dl=1
+DIV2K dataset: [Official website](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
-DIV2K_vaild_HR dataset download: https://cloud.tsinghua.edu.cn/f/b76a28ed2f174d799478/?dl=1
+- Training images: [DIV2K_train_HR.zip](https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_HR.zip)
+- Validation images: [DIV2K_valid_HR.zip](https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip)
+
+Extract the archives and set `trainImagePath` and `validImagePath` in `HoloEncoder_training.m` to the extracted folders.
 
 Networks download: https://cloud.tsinghua.edu.cn/f/8c312bc8c9ff441098b7/?dl=1
 
