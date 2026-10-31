@@ -19,7 +19,7 @@ Extract the archives and set `trainImagePath` and `validImagePath` in `HoloEncod
 Networks download: https://cloud.tsinghua.edu.cn/f/8c312bc8c9ff441098b7/?dl=1
 
 Related work:
-
+- [J. Wu, K. Liu, X. Sui, and L. Cao, "High-speed computer-generated holography using an autoencoder-based deep neural network," Optics Letters 46, 2908–2911 (2021).](https://doi.org/10.1364/OL.425485)
 - [Y. Luo, K. Liu, Z. He, and L. Cao, "WGCNet: wavelet global context network for speckle-free 4K holographic display with high-frequency preservation," Photonics Research 14(7), 2925–2935 (2026).](https://doi.org/10.1364/PRJ.588876)
 
 Contact:
